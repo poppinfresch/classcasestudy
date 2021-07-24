@@ -8,13 +8,13 @@
 
 Co-written by Mark, Odette, Tara, Brandon, Romil 
 ---
-### An In-Depth Look at Robinhood's Innovative Technology
+### Robinhood: An In-Depth Assessment on Fintech
 ---
 **What is the background of your company? What do they do? Who are their competitors?**
 ---
 **How does this company use technology to their advantage? Why are they considered a FinTech company?**
 ---
-**Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?**  
+**What makes Robinhood exemplary in the FinTech space? What are their strengths and weaknesses?**  
 
 *By Odette Popko*  
 
