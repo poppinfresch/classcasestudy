@@ -16,5 +16,11 @@ Case Study by Mark, Odette, Tara, Brandon, Romil
 ---
 **Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?**
 ---
+*By Odette Popko*  
+
+Robinhood stands out from other trading apps as an easy to use interface that allows you to make trades instantly and commission free. There is an option to use the app and trade in the market (triggered to execute during market hours) and trade crypto 24/7 without having to pay any fees. Additionally Robinhood has subscription version "Robinhood Gold" that allows users to trade by borrowing on margin, access to in-depth research and larger instant deposits. By cutting out the middle-men (brokers/commision fees) they disrupt classic trading business models. Robinhood is a pioneer of the industry by being one of the only platforms you can buy and sell Stocks & Crypto commision free.  
+A big hesitation crypto traders have when using RH is the inability to transfer their coins to a cold storage wallet. A wallet stores and encrypts crypto keys unique to your individual account. Currently RH manages your keys for you, so if your account gets hacked or frozen you don't have access to those keys. While other apps like Coinbase have Coinbase Wallet for you to safely transfer and store currency - coins bought in RH are stuck in RH. This makes the idea of holding crypto long-term less apealing and with added risk. The RH developers claim that they aim to launch a RH wallet "as fast as possible" so you can deposit and withdraw your coins safely. Adding a wallet to RH would revolutionize the platform by being the first platform to successfully trade stocks, crypto and storage and withdrawal of crypto from a wallet.  
+
+---
 **What is the prognosis for this company? Where do they expect to be in the future?**
 ---
